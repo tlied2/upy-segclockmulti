@@ -1,0 +1,14 @@
+{
+    "wifi": {
+        "hostname": "my_dhcp_hostname",
+        "networks": {
+            "SSID1": "ssid1password",
+            "SSID2": "ssid2password"
+        }
+    },
+    "clock": {
+        "24hour": true,
+        "pad": true
+    },
+    "ntp_server": "ip_for_ntp_server"
+}

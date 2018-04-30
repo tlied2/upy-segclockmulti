@@ -1,0 +1,3 @@
+[submodule "upy-mylib"]
+	path = upy-mylib
+	url = https://github.com/tlied2/upy-mylib.git
